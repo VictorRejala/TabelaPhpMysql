@@ -1,0 +1,23 @@
+label {
+
+    width: 60px;
+    display: inline-block;
+}
+
+.botao {
+
+    background-color: rgb(8, 66, 8);
+    color: white;
+    margin-top: 10px;
+    padding: 5px 60px;
+
+}
+
+.limpar {
+
+    background-color: rgb(107, 16, 16);
+    color: white;
+    width: 60px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
